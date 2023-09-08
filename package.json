@@ -1,11 +1,11 @@
 {
-  "name": "currency-converter-cli",
+  "name": "cli_currency_converter_adnan",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "currency-converter-cli": "./index.js"
+    "cli_currency_converter_adnan": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
